@@ -1,0 +1,72 @@
+#about {
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px 8%;
+  color: #f5f5f5;
+}
+
+.about-content {
+  max-width: 1000px;
+}
+
+.about-content h1 {
+  font-size: 45px;
+  margin-bottom: 25px;
+}
+
+.about-content p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #a9a9b2;
+  margin-bottom: 15px;
+}
+.skills-title {
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.skills span {
+  padding: 10px 18px;
+  background-color: #17171f;
+  border: 1px solid #2e2e3a;
+  border-radius: 8px;
+  color: #c7c7c7;
+  font-size: 15px;
+}
+
+.education-title {
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.education-card {
+  max-width: 600px;
+  padding: 20px;
+  background-color: #17171f;
+  border: 1px solid #2e2e3a;
+  border-radius: 10px;
+}
+
+.education-card h3 {
+  font-size: 19px;
+  margin-bottom: 8px;
+}
+
+.education-card p {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #c7c7c7;
+}
+
+.education-card span {
+  font-size: 14px;
+  color: #8b5cf6;
+}
